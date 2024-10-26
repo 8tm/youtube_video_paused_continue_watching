@@ -28,8 +28,9 @@ Content:
             // Debug:
             // let currentDateTime = new Date();
             // let formattedDateTime = currentDateTime.toLocaleString();
-            // console.log(`Kliknięto 'TAK' dnia ${formattedDateTime}.`);
-            // alert(`Kliknięto 'TAK' dnia ${formattedDateTime}.`);
+            // console.log(`[${formattedDateTime}] Pushed 'YES' button.`);
+            // alert(`[${formattedDateTime}] Pushed 'YES' button.`);
+
         }
     },500);
 })();
