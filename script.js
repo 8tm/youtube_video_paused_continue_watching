@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Ignore "Video Paused, continue watching?" using XPath
-// @version      1.0
+// @version      24.10.27
 // @description  This script will click on "YES" button
 // @author       8TM (https://github.com/8tm/youtube_video_paused_continue_watching)
 // @match        https://youtube.com/*
 // @match        https://www.youtube.com/*
 // @match        http://youtube.com/*
 // @match        http://www.youtube.com/*
+// @compatible   firefox Works with Firefox and Tampermonkey
 // @grant        none
 // ==/UserScript==
 
