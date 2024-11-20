@@ -9,6 +9,7 @@
 // @match        http://www.youtube.com/*
 // @compatible   firefox Works with Firefox and Tampermonkey
 // @grant        none
+// @namespace https://greasyfork.org/users/1386567
 // ==/UserScript==
 
 (function() {
